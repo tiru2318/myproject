@@ -1,0 +1,31 @@
+.container{
+	border: 1px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: monotype corsiva ;
+	font-size: 18pt ;
+}
+.university{
+	width: 240px;
+	height: 150px;
+    left: 0px;
+    top: 0px;
+}
+.hyper{
+	text-align: center;
+}
+.clg  img{
+	border :1px solid blue;
+	border-radius: 10px;
+	width:210px ;
+	height: 160px;
+}
+.clg{
+	margin-left: 50px;
+}
+footer{
+	background-color: blue;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+}
